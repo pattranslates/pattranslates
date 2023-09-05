@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @pattranslates
+- 🔭 I'm ‏a professional translator.
+- 😄 I have complete command of these languages - English, French, German, Dutch, Spanish, Italian, and Portuguese.
+- 💬 Please be sure to take in account a reasonable deadline.
