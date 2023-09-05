@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @pattranslates
-- 🔭 I'm ‏a professional translator.
+- 🔭 I'm ‏a professional translator, specializing in technical translations.
 - 😄 I have complete command of these languages - English, French, German, Dutch, Spanish, Italian, and Portuguese.
-- 💬 Please be sure to take in account a reasonable deadline.
+- 💬 Please be sure to take into account a reasonable deadline.
